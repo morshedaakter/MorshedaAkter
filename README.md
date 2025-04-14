@@ -1,16 +1,27 @@
-## Hi there 👋
+# 👋 Hi, I'm Morsheda Akter
 
-<!--
-**morshedaakter/MorshedaAkter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔍 Passionate Data Analyst with a strong foundation in:
 
-Here are some ideas to get you started:
+- Python (Pandas, NumPy, Matplotlib, Seaborn)
+- SQL (MySQL)
+- Power BI
+- Excel
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💡 I love analyzing Sales & Marketing Data and building insightful dashboards.
+
+---
+
+## 📂 My Projects
+
+🔸 **Sales Dashboard – Power BI**  
+A dynamic dashboard analyzing sales performance across regions.
+
+🔸 **Customer Segmentation – Python & SQL**  
+Used clustering to segment customers for a marketing campaign.
+
+🔸 **Marketing Campaign Analysis – Seaborn**  
+Explored data from multiple campaigns and visualized KPIs.
+
+---
+
+📫 **Reach me at:** morshedaa241@gmail.com 
